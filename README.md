@@ -1,6 +1,6 @@
 # 🛒Online Shop Project (Python + Tkinter)
 ## 📌Description
-This is a simple **online shop management system** developed in Python as part of an **AP (Advanced Programming)course project**. The project uses **Tkinter for GUI** and **CSV files for data storage**.
+This is a simple **online shop management system** developed in Python as part of an **AP (Advanced Programming) course project**. The project uses **Tkinter for GUI** and **CSV files for data storage**.
 ---
 ## ✨Features
 
@@ -21,15 +21,18 @@ This is a simple **online shop management system** developed in Python as part o
 - Sales report (by product / date)
 
 ## 📁 Project Structure
+
+```text
 project/
-├── main.py  # Entry point of the program
-├── gui.py  # Tkinter graphical user interface
-├── models.py  # Classes (User, Product, Customer, Admin, Store)
-├── products.csv  # Product data
-├── users.csv  # User data
-├── orders.csv  # Order records
-├── comments.csv  # Product comments
-└── images/  # Product images (named by product_id)
+├── main.py
+├── gui.py
+├── models.py
+├── products.csv
+├── users.csv
+├── orders.csv
+├── comments.csv
+└── images/
+```
 ## Status
 Project is under development
 ## Technologies Used
@@ -41,3 +44,15 @@ Project is under development
 ## Installation
 ````bash
 pip install pillow
+python main.py
+````
+
+## Author
+Developed by **Sara Mokhtari Far**
+
+- Course: Advanced Programming (AP)
+- Language: Python
+- GUI Framework: Tkinter
+- Year: 2026
+- GitHub: @saramokhtarifar
+- Repository: https://github.com/saramokhtarifar/online-shop-python
