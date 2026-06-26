@@ -4,24 +4,28 @@ from models import (Store,Admin,Product,Customer,User)
 from PIL import Image,ImageTk
 import os
 store=Store()
-
+BASE_DIR=os.path.dirname(os.path.abspath(__file__))
+products_path=os.path.join(BASE_DIR,"products.csv")
+orders_path=os.path.join(BASE_DIR,"orders.csv")
+users_path=os.path.join(BASE_DIR,"users.csv")
+comments_path=os.path.join(BASE_DIR,"comments.csv")
 try:
-    store.load_products("products.csv")
+    store.load_products(products_path)
 except FileNotFoundError as e:
     messagebox.showerror("Loading Error")
 
 try:
-    store.load_users("users.csv")
+    store.load_users(users_path)
 except FileNotFoundError as e:
     messagebox.showerror("Loading Error")
     
 try:
-    store.load_orders("orders.csv")
+    store.load_orders(orders_path)
 except FileNotFoundError as e:
     messagebox.showerror("Loading Error")
 
 try:
-    store.load_comments("comments.csv")
+    store.load_comments(comments_path)
 except FileNotFoundError as e:
     messagebox.showerror("Loading Error")
 
