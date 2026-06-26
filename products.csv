@@ -1,0 +1,21 @@
+product_id,name,price,stock,category
+P1,HP Victus 15.6 inch Gaming Laptop,2699.0,5,Laptop
+P2,15 inch MacBook Air Midnight,1299.0,9,Laptop
+P3,Lenovo 15.3 inch Ideapad Laptop,799.0,6,Laptop
+P4,Asus VivoBook 2Z8N 14 inch Laptop,279.99,11,Laptop
+P5,UltraSharp 4k 27 inch Dell monitor,699.0,14,Monitor
+P6,MAG Msi 4k 34 inch Laptop,1050.9,2,Monitor
+P7,Samsung S25 FE Phone 256MB,578.4,43,Phone
+P8,IPhone 17 ProMax,2000.0,8,Phone
+P9,Asus RTX 5070 Graphic Card,603.8505,5,Graphic Card
+P10,Msi RTX 5070 Graphic Card,1100.0,14,Graphic Card
+P11,Canon PowerShot V1,849.0,4,Camera
+P12,Canon PowerShot 360 HS Silver,379.99,3,Camera
+P14,Sony ULT Headphone,119.04,30,Headphone
+P15,HyperX Cloud Headset,48.37,16,Headphone
+P16,AirPods 4 Wireless,172.99,5,Headphone
+P17,Apple Airpods Max 2,474.0,30,Headphone
+P18,PlayStation PS  4K 825GB  SSD,550.0,10,Gaming Console
+P19,Nintendo Switch 2,671.99,27,Gaming Console
+P20,Sony SRS-XB100 Wireless Speaker,31.35,10,Speaker
+P13,Apple IPad Air 11 inch,559.0,9,Tablet
