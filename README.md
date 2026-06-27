@@ -41,3 +41,13 @@ Project is under development
 ## Installation
 ````bash
 pip install pillow
+````
+## Author
+Developed by Sara Mokhtari Far
+
+- Course: Advanced Programming (AP)
+- Language: Python
+- GUI Framework: Tkinter
+- Year: 2026
+- GitHub: @saramokhtarifar
+- Repository: https://github.com/saramokhtarifar/online-shop-python
