@@ -35,6 +35,7 @@ project/
 ```
 ## Status
 Project is under development
+
 ## Technologies Used
 - Python 3.x
 - Tkinter (GUI)
@@ -54,3 +55,19 @@ Developed by Sara Mokhtari Far
 - Year: 2026
 - GitHub: @saramokhtarifar
 - Repository: https://github.com/saramokhtarifar/online-shop-python
+
+## Screenshots
+### Login Page
+![Login Page](screenshots/loginmenu.png)
+### Customer Panel
+![Customer Panel](screenshots/customerpannel.png)
+### Admin Panel
+![Admin Panel](screenshots/adminpannel.png)
+### Product Search
+![Product Search](screenshots/searchresult.png)
+### Product Info
+![Product Info](screenshots/productinfo.png)
+### Sale Statistics
+![Sale Statistics](screenshots/salestatistics.png)
+### Add To Cart
+![Add To Cart](screenshots/addtocart.png)
